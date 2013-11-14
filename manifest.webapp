@@ -8,9 +8,9 @@
     "url": "https://github.com/mpizza/ime/"
   },
   "permissions": {
-    "keyboard": {}
+    "input": {}
   },
-  "entry_points": {
+  "inputs": {
     "english": {
       "launch_path": "/index.html#en",
       "name": "english",
